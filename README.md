@@ -1,3 +1,6 @@
+# Frank's Edit
+This repo is for research purposes only. 
+
 # Training neural networks with local error signals
 This repo contains PyTorch code for training neural networks without global backprop. Experiments are performed by Arild Nøkland and Lars Hiller Eidnes.
 
